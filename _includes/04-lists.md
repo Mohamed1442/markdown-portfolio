@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+# Orderd List
+1. play
+2. study
